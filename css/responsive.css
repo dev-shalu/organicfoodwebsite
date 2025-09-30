@@ -1,0 +1,47 @@
+@media (max-width: 1200px) {
+  .para_content p {
+    margin-left: 5%;
+  }
+}
+@media (max-width: 575px) {
+  .about_banner h1 {
+    font-size: 4.5rem;
+  }
+}
+
+@media (max-width: 1170px) {
+  .header .navbar {
+    background-size: cover;
+    padding: 1rem;
+  }
+
+  .header .navbar-nav {
+    margin-top: 2rem;
+  }
+
+  .header .navbar-nav .nav-link {
+    padding: 0.2rem 0.5rem;
+    margin-bottom: 1rem;
+  }
+  .header_right span {
+    margin: 13px;
+  }
+  .header_right .phone {
+    margin: 0px 13px;
+  }
+}
+@media (max-width: 575px) {
+  .main-banner h2 {
+    font-size: 60px;
+  }
+  .main-banner .carousel-caption h4 {
+    font-size: 26px;
+    padding: 6px 15px;
+    margin: 2px 0rem 30px;
+  }
+}
+@media (max-width: 990px) {
+  .card.best_seller_box {
+    margin: 14px;
+  }
+}
