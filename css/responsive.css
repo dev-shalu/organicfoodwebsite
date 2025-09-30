@@ -1,7 +1,11 @@
 @media (max-width: 1200px) {
   .para_content p {
-    margin-left: 5%;
+    margin-left: 17%;
   }
+  .contact_section .contact-form .info-box li a {
+    font-size: 16px;
+}
+  
 }
 @media (max-width: 575px) {
   .about_banner h1 {
@@ -44,4 +48,19 @@
   .card.best_seller_box {
     margin: 14px;
   }
+
+  .contact_section .contact-form .info-box li {
+    padding-left: 0;
+
+  }
+  .contact_section .contact-form .info-box li i {
+    padding-left: 0;
+    font-size: 1.5rem;
+    margin: 27px 13px 11px -71px;
+  }
+
+  .contact_section .contact-form .info-box li a {
+    font-size: 29px;
+}
+  
 }
